@@ -1,2 +1,2 @@
 #!/bin/bash
-setfacl -m user:o:rwx hello
+chmod 007 hello
