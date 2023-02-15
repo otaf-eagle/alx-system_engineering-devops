@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $printenv $typeset -f
+set
